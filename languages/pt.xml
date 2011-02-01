@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<home>
+		<label>
+			Mind é um novo Padrão de desenvolvimento
+		</label>
+		<label>
+			A partir de um código baseado em uma linguagem semi-natural, o Mind é capaz de gerar um sistema completo, incluindo Banco de Dados, Classes e Formulários.
+		</label>
+		<label>
+			Execute este exemplo
+		</label>
+		<label>
+			Todo aluno tem vários professor.
+		</label>
+		<label>
+			E cada professor pode ter um ou vários aluno.
+		</label>
+		<label>
+			Sabemos que aluno tem nome:caractere(60, obrigatório).
+		</label>
+		<label>
+			Todo professor tem cpf:char(11).
+		</label>
+		<label>
+			sendo que aluno tem uma mãe.
+		</label>
+		<label>
+			Com apenas estas linhas de código, o Mind será capaz de oferecer, por padrão, estas saídas:
+		</label>
+		<label>
+			Mind 2.0 se encarregará de normalizar a base de dados implementando todas as regras automatizando tudo aquilo que pode ser automatizado, liberando tempo para você usar a sua criatividade e inovar o mundo.
+		</label>
+		<label>
+			Abstração máxima
+		</label>
+		<label>
+			TheWebMind irá abstrair a base de dados, a implementação de padrões, uso de qualquer framework que esteja acostumado, views padrão, documentação, normalização e até mesmo a linguagem de programação do sistema gerado.<br/>
+			Tudo somente depende do módulo adotado ou plugins que você mesmo pode montar e colaborar com o desenvolvimento.
+		</label>
+		<label>
+			Programação discreta
+		</label>
+		<label>
+			A linguagem de programação adapta-se ao desenvolvedor, podendo-se aprimora-la para buscar um melhor rendimento dos desenvolvedores além de oferecer suporte à programação em diversos idiomas.<br/>
+			Idioma os quais você também pode colaborar na construção.
+		</label>
+		<label>
+			Apoio
+		</label>
+		<label>
+			Colabore
+		</label>
+	</home>
+	<footer>
+		<label>
+			Início
+		</label>
+		<label>
+			Download
+		</label>
+		<label>
+			Docs
+		</label>
+		<label>
+			Vídeos
+		</label>
+		<label>
+			Contato
+		</label>
+	</footer>
+	<download>
+		<label>
+			Requerimentos
+		</label>
+		<label>
+			TheWebMind é uma aplicação totalmente desenvolvida em PHP. Sendo assim, basta ter um servidor http com suporte a PHP para então, descompactar os arquivos do Mind e simplesmente acessa-los por meio de uma requisição HTTP atravez de um navegador moderno.<br/>
+		</label>
+		<label>
+			TheWebMind irá atualizar automaticamente conforme novos updates forem surgindo. Você pode configurar a forma como ele se atualiza.
+		</label>
+		<label>
+			Contribua
+		</label>
+		<label>
+			Aqui, alguns links para download de opções para o que é requerido.
+		</label>
+		<label>
+			Instruções, FAQ e sugestões em:
+		</label>
+	</download>
+	<contact>
+		<label>
+			Contato
+		</label>
+		<label>
+			Dúvidas? Já tentou soluciona-las lendo as nossas<br/>
+		</label>
+		<label>
+			Deseja colaborar? Ótimo! Cadastre-se em <a href='http://thewebmind.org/contribute' target='_quot'>contribute</a>.
+		</label>
+		<label>
+			Outros motivos para o contato?<br/>
+			Sem problemas, envie-nos uma mensagem pelo formuário abaixo, participe do <a href='http://groups.google.com.br/group/thewebmind' target='_quot'>grupo de discuções</a> ou siga-nos no <a href='http://twitter.com/thewebmind'>twitter</a>.
+		</label>
+		<label>
+			Nome
+		</label>
+		<label>
+			E-mail
+		</label>
+		<label>
+			País
+		</label>
+		<label>
+			UF
+		</label>
+		<label>
+			Cidade
+		</label>
+		<label>
+			Como conheceu o Mind?
+		</label>
+		<label>
+			Sites de busca
+		</label>
+		<label>
+			Twitter
+		</label>
+		<label>
+			Grupo de Discução
+		</label>
+		<label>
+			Anúncio ou indicação de alguém de confiança
+		</label>
+		<label>
+			Outros meios
+		</label>
+		<label>
+			Enviar
+		</label>
+		<label>
+			ou 
+		</label>
+		<label>
+			grupo de discussões
+		</label>
+		<label>
+			ou siga-nos no 
+		</label>
+	</contact>
+	<download_latest>
+		<label>
+			Seu download iniciará em alguns segundos. Se isto não acontecer, por favor clique aqui:
+		</label>
+		<label>
+			Obrigado por fazer o download do theWebMind
+		</label>
+		<label>
+			Todo feed back é bem vindo. Caso tenha dificuldades, por favor visite a documentação: 
+		</label>
+	</download_latest>
+</root>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<home>
+		<label>
+			Mind is a new way to develop systems
+		</label>
+		<label>
+			From a extremely simple code, based on a semi-natural language, Mind is able to generate a complete system, including its database, classes, forms, documentation, etc.
+		</label>
+		<label>
+			Try this example
+		</label>
+		<label>
+			All the student have many teacher.
+		</label>
+		<label>
+			And each teacher has one or many student.
+		</label>
+		<label>
+			we also know that studend has a name:char(60, needed).
+		</label>
+		<label>
+			Every teacher has a name:character(60, not null) too.
+		</label>
+		<label>
+			we might consider: every student has a mother.
+		</label>
+		<label>
+			With only those simple lines of WML(Web Mind Language) code, Mind 2.0 will give you these outputs (as default, once you can add more by using plugins or different modules):
+		</label>
+		<label>
+			Mind 2.0 will normalize the database implementing all the rules and preparing everything that can my done for a machine, letting you free to use YOUR mind, your creativity to inovate the world, as machines cannot do (yet).
+		</label>
+		<label>
+			Maximum Abstraction
+		</label>
+		<label>
+			TheWebMind will abstract the dataBase, patterns implemention, use of any framework you are used to as much as it has a module to work with, views, documentation, normalization and even the programming language the generated system will be born in. 
+			More details and possibilities can be adopted by modules and plugins that you can build by yourself and sell or contribute with the comunity.
+		</label>
+		<label>
+			A discrete programming language
+		</label>
+		<label>
+			The discrete programming language adapts to the developer. We can improve it due to reach a better efficiency from developers in addition to offer support o code in many different languages. Language which you can colaborate too, developing and translating.
+		</label>
+		<label>
+			Sponsors
+		</label>
+		<label>
+			Contribute
+		</label>
+	</home>
+	<footer>
+		<label>
+			Home
+		</label>
+		<label>
+			Download
+		</label>
+		<label>
+			Docs
+		</label>
+		<label>
+			Videos
+		</label>
+		<label>
+			Contact
+		</label>
+	</footer>
+	<download>
+		<label>
+			Requirements
+		</label>
+		<label>
+			TheWebMind is an application developed totally  in PHP. You must have a simple HTTP server with PHP support to unzip Mind files and access them using a modern browser.
+		</label>
+		<label>
+			TheWebMind will keep itself up to date as new features or bg fixies are established. You may cnfigure the way Mind deal with updates.
+		</label>
+		<label>
+			Contribute
+		</label>
+		<label>
+			Here, some links to download options of these required elements.
+		</label>
+		<label>
+			Instructions, FAQ and suggestions at:
+		</label>
+	</download>
+	<contact>
+		<label>
+			Contact
+		</label>
+		<label>
+			Questions? Have you already tried to solve them reading our
+		</label>
+		<label>
+			Want to contribute? Great! Then, subscribe at 
+		</label>
+		<label>
+			Other reason to talk to us?<br/>
+			No problems, send us a message usting the following form, join our 
+		</label>
+		<label>
+			Name
+		</label>
+		<label>
+			E-mail
+		</label>
+		<label>
+			Country
+		</label>
+		<label>
+			State
+		</label>
+		<label>
+			City
+		</label>
+		<label>
+			How you reached Mind?
+		</label>
+		<label>
+			Search engines
+		</label>
+		<label>
+			Twitter
+		</label>
+		<label>
+			Discussion groups
+		</label>
+		<label>
+			Announce or indication from a trusty source
+		</label>
+		<label>
+			Different ways
+		</label>
+		<label>
+			Send
+		</label>
+		<label>
+			or 
+		</label>
+		<label>
+			discussion group 
+		</label>
+		<label>
+			or follow us on  
+		</label>
+	</contact>
+	<download_latest>
+		<label>
+			Your download will start in a few seconds. If it does not happen, please click here: 
+		</label>
+		<label>
+			Thank you for downloading theWebMind
+		</label>
+		<label>
+			Please, provide us your feedback. In case of any difficulties, visit our documentation at:
+		</label>
+	</download_latest>
+</root>
